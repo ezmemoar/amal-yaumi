@@ -1,76 +1,94 @@
 {
   "amal": [
     {
+      "id": "1",
       "name": "Shalat Dhuha",
       "unit": "Rakaat"
     },
     {
+      "id": "2",
       "name": "Shalat Tahajjud",
       "unit": "Rakaat"
     },
     {
+      "id": "3",
       "name": "Tilawah",
       "unit": "Lembar"
     },
     {
+      "id": "4",
       "name": "Al Ma'tsurat",
       "unit": "kali"
     },
     {
+      "id": "5",
       "name": "Shalat Dhuha",
       "unit": "Rakaat"
     }
   ],
   "person": [
     {
+      "id": "1",
       "name": "Rizal",
       "cellphone": "+6285871359105"
     },
     {
+      "id": "2",
       "name": "Hasbi",
       "cellphone": "+6287737002555"
     },
     {
+      "id": "3",
       "name": "Ayyub",
       "cellphone": "+62895335152397"
     },
     {
+      "id": "4",
       "name": "Yazid",
       "cellphone": "+6282258440961"
     },
     {
+      "id": "5",
       "name": "Boby",
       "cellphone": "+6287889996523"
     },
     {
+      "id": "6",
       "name": "Wilman",
       "cellphone": "+6288296295942"
     },
     {
+      "id": "7",
       "name": "Fauzan",
       "cellphone": "+6281318751021"
     },
     {
+      "id": "8",
       "name": "Mush'ab",
       "cellphone": "+6281341483377"
     },
     {
+      "id": "9",
       "name": "Inggar",
       "cellphone": "+6282125289891"
     },
     {
+      "id": "10",
       "name": "Hardiman",
       "cellphone": "+6285869074799"
     },
     {
+      "id": "11",
       "name": "Tegar",
       "cellphone": "+6289516813057"
     },
     {
+      "id": "12",
       "name": "Awwalun",
       "cellphone": "+62895809222272"
     },
     {
+      "id": "13",
       "name": "Fhaykal",
       "cellphone": "+6289652530742"
     }
