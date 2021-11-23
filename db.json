@@ -1,12 +1,78 @@
 {
+  "amal": [
+    {
+      "name": "Shalat Dhuha",
+      "unit": "Rakaat"
+    },
+    {
+      "name": "Shalat Tahajjud",
+      "unit": "Rakaat"
+    },
+    {
+      "name": "Tilawah",
+      "unit": "Lembar"
+    },
+    {
+      "name": "Al Ma'tsurat",
+      "unit": "kali"
+    },
+    {
+      "name": "Shalat Dhuha",
+      "unit": "Rakaat"
+    }
+  ],
   "person": [
     {
-      "name": "Muhamad Rizal Noor Pratama",
+      "name": "Rizal",
       "cellphone": "+6285871359105"
     },
     {
-      "name": "Muhamad Hasbi Sabilulhaq",
+      "name": "Hasbi",
       "cellphone": "+6287737002555"
+    },
+    {
+      "name": "Ayyub",
+      "cellphone": "+62895335152397"
+    },
+    {
+      "name": "Yazid",
+      "cellphone": "+6282258440961"
+    },
+    {
+      "name": "Boby",
+      "cellphone": "+6287889996523"
+    },
+    {
+      "name": "Wilman",
+      "cellphone": "+6288296295942"
+    },
+    {
+      "name": "Fauzan",
+      "cellphone": "+6281318751021"
+    },
+    {
+      "name": "Mush'ab",
+      "cellphone": "+6281341483377"
+    },
+    {
+      "name": "Inggar",
+      "cellphone": "+6282125289891"
+    },
+    {
+      "name": "Hardiman",
+      "cellphone": "+6285869074799"
+    },
+    {
+      "name": "Tegar",
+      "cellphone": "+6289516813057"
+    },
+    {
+      "name": "Awwalun",
+      "cellphone": "+62895809222272"
+    },
+    {
+      "name": "Fhaykal",
+      "cellphone": "+6289652530742"
     }
   ]
 }
